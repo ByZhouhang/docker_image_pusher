@@ -1,5 +1,6 @@
 ghcr.io/beck-8/subs-check
 ghcr.io/koriiku/luxirty-search
+jellyfin/jellyfin
 #支持私库
 
 #支持指定架构
