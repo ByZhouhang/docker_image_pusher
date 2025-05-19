@@ -1,6 +1,6 @@
 ghcr.io/beck-8/subs-check
 ghcr.io/koriiku/luxirty-search
-jellyfin/jellyfin
+minio/minio:RELEASE.2023-04-28T18-11-17Z
 #支持私库
 
 #支持指定架构
